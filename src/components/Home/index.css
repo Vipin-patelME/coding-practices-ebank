@@ -1,0 +1,33 @@
+.home-main-cont {
+  min-height: 100vh;
+  background-color: #152850;
+}
+.logo-cont {
+  background-color: #152850;
+  height: 120px;
+  display: flex;
+  padding-left: 80px;
+  align-items: center;
+  padding-right: 80px;
+  justify-content: space-between;
+}
+.logout-btn {
+  height: 30px;
+  width: 80px;
+  background-color: transparent;
+  color: #ffffff;
+  border-color: #c3cad9;
+  border-radius: 8px;
+}
+.digital-card-cont {
+  text-align: center;
+  background-color: #152850;
+}
+.home-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.digital-card-image {
+  height: 300px;
+  width: 500px;
+}
